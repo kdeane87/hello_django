@@ -30,7 +30,7 @@ SECRET_KEY = env.secret_key
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-kdeane87-hellodjango-9b4d4lkoc1x.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['kdeane-django-todo-app-0ee221be411f.herokuapp.com']
 
 
 # Application definition
